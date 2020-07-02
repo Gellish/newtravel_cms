@@ -1,0 +1,68 @@
+{
+    "days": [
+        {
+            "unique": 0,
+            "hits": 0,
+            "ip": []
+        },
+        {
+            "unique": 0,
+            "hits": 0,
+            "ip": []
+        },
+        {
+            "unique": 0,
+            "hits": 0,
+            "ip": []
+        },
+        {
+            "unique": 0,
+            "hits": 0,
+            "ip": []
+        },
+        {
+            "unique": 0,
+            "hits": 0,
+            "ip": []
+        },
+        {
+            "unique": 0,
+            "hits": 0,
+            "ip": []
+        },
+        {
+            "unique": 0,
+            "hits": 0,
+            "ip": []
+        },
+        {
+            "unique": 0,
+            "hits": 0,
+            "ip": []
+        },
+        {
+            "unique": 0,
+            "hits": 0,
+            "ip": []
+        },
+        {
+            "unique": 0,
+            "hits": 0,
+            "ip": []
+        },
+        {
+            "unique": 0,
+            "hits": 0,
+            "ip": []
+        },
+        {
+            "unique": 2,
+            "hits": 61,
+            "ip": [
+                "34.207.98.73",
+                "103.218.100.94"
+            ]
+        }
+    ],
+    "currMonth": "10"
+}
